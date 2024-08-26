@@ -40,7 +40,7 @@ jobs:
           npm install --global pnpm
           pnpm install
           pnpm run build
-          pnpm run dev
+    
 
 # Please do not touch the following action
       - name: Store deployment content
