@@ -74,7 +74,11 @@ const images = ref([
   { src: '/images/52.jpg', alt: 'gartenarbeit' },
   { src: '/images/53.jpg', alt: 'gartenarbeit' },
   { src: '/images/54.jpg', alt: 'gartenarbeit' },
-  { src: '/images/55.jpg', alt: 'gartenarbeit' }
+  { src: '/images/55.jpg', alt: 'gartenarbeit' },
+  { src: '/images/56.jpg', alt: 'gartenarbeit' },
+  { src: '/images/57.jpg', alt: 'gartenarbeit' },
+  { src: '/images/58.jpg', alt: 'gartenarbeit' },
+  { src: '/images/59.jpg', alt: 'gartenarbeit' }
   
 ]);
 

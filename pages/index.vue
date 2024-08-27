@@ -79,6 +79,7 @@
       <div class="service-card p-4 bg-white shadow-lg rounded">
         <h3 class="text-xl font-semibold text-gray-800">Neu & Umgestaltung</h3>
         <ul class="list-disc ml-5 mt-2">
+          <li>Spielplatz neubauen</li>
           <li>Pflasterarbeiten</li>
           <li>Terrassen bauen / Zaunarbeiten</li>
           <li>Bepflanzungen</li>
@@ -128,11 +129,15 @@
       <!-- Kategorie: Rasenmähen -->
       <div class="service-card p-4 bg-white shadow-lg rounded">
         <h3 class="text-xl font-semibold text-gray-800">Rasenmähen</h3>
+
       </div>
 
       <!-- Kategorie: Doppelstabmatte aufsetzen -->
       <div class="service-card p-4 bg-white shadow-lg rounded">
         <h3 class="text-xl font-semibold text-gray-800">Doppelstabmatte aufsetzen</h3>
+      </div>
+      <div class="service-card p-4 bg-white shadow-lg rounded">
+        <h3 class="text-xl font-semibold text-gray-800">Rollrasen legen</h3>
       </div>
 
       <!-- Kategorie: Zaunarbeiten (Kunststoffzaun aufsetzen) -->
