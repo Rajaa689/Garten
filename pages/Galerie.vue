@@ -63,7 +63,19 @@ const images = ref([
   { src: '/images/41.jpg', alt: 'gartenarbeit' },
   { src: '/images/42.jpg', alt: 'gartenarbeit' },
   { src: '/images/43.jpg', alt: 'gartenarbeit' },
-  { src: '/images/44.jpg', alt: 'gartenarbeit' }
+  { src: '/images/44.jpg', alt: 'gartenarbeit' },
+  { src: '/images/45.jpg', alt: 'gartenarbeit'},
+  { src: '/images/46.jpg', alt: 'gartenarbeit' },
+  { src: '/images/47.jpg', alt: 'gartenarbeit' },
+  { src: '/images/48.jpg', alt: 'gartenarbeit' },
+  { src: '/images/49.jpg', alt: 'gartenarbeit' },
+  { src: '/images/50.jpg', alt: 'gartenarbeit' },
+  { src: '/images/51.jpg', alt: 'gartenarbeit' },
+  { src: '/images/52.jpg', alt: 'gartenarbeit' },
+  { src: '/images/53.jpg', alt: 'gartenarbeit' },
+  { src: '/images/54.jpg', alt: 'gartenarbeit' },
+  { src: '/images/55.jpg', alt: 'gartenarbeit' }
+  
 ]);
 
 const isSlideshowOpen = ref(false);

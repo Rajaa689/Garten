@@ -37,6 +37,9 @@ dependencies:
   nuxt-swiper:
     specifier: ^1.2.2
     version: 1.2.2(rollup@2.79.1)
+  pnpm:
+    specifier: ^9.8.0
+    version: 9.8.0
   swiper:
     specifier: ^11.1.4
     version: 11.1.4
@@ -9159,6 +9162,12 @@ packages:
       confbox: 0.1.7
       mlly: 1.7.1
       pathe: 1.1.2
+    dev: false
+
+  /pnpm@9.8.0:
+    resolution: {integrity: sha512-jkw1UPtQDoCNvDC7DOTdHrYU4wscVSRfIRWR7CzfnGEcq9NOE2S0L1ZL1Us5Re0PSdYdG78uyb10uGb83HIydg==}
+    engines: {node: '>=18.12'}
+    hasBin: true
     dev: false
 
   /portfinder@1.0.32:
