@@ -28,7 +28,7 @@
         </div>
         <div class="text-gray-800">
           <p>Mobile:</p>
-          <a href="mobile:+4917622787830" class="hover:underline">+49 176 227 87 830</a>
+          <a href="mobile:+4917622787830" class="hover:underline">017622787830</a>
         </div>
         <p>Wir freuen uns auf Ihre Anfrage!</p>
       </div>
